@@ -35,7 +35,7 @@ It only implements the basic stuff to survive using the [Factom Network](https:/
 Modify and Configure your own values in [test.cs](./TestLibrary/test.cs)
 
 ## Authors
-- **Aziel León** - _Initial work_ - [RealALeon](https://github.com/RealALeon) / [@RealALeon](https://twitter.com/realaleon)
+- **Aziel León** - _Initial work_ - [RealALeon](https://github.com/RealALeon)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
